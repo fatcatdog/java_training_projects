@@ -79,55 +79,55 @@ public class ConditionalsIII {
             System.out.println("2. Month Name to Number of Days\n");
             String monthName;
             String monthDayValue;
+for(int endless= 0; endless < 5;) {
+    System.out.println("Please type a month (full spelling of month ex. July)(type anything else to exit program): \n");
 
-            System.out.println("Please type a month (full spelling of month ex. July): \n");
+    monthName = userInput.next();
+    monthName = monthName.toLowerCase();
 
-            monthName = userInput.next();
-            monthName = monthName.toLowerCase();
-
-            switch (monthName) {
-                case "january":
-                    monthDayValue = "31 days";
-                    break;
-                case "february":
-                    monthDayValue = "28 or 29 days depending on leap year";
-                    break;
-                case "march":
-                    monthDayValue = "31 days";
-                    break;
-                case "april":
-                    monthDayValue = "30 days";
-                    break;
-                case "may":
-                    monthDayValue = "31 days";
-                    break;
-                case "june":
-                    monthDayValue = "30 days";
-                    break;
-                case "july":
-                    monthDayValue = "31 days";
-                    break;
-                case "august":
-                    monthDayValue = "31 days";
-                    break;
-                case "september":
-                    monthDayValue = "30 days";
-                    break;
-                case "october":
-                    monthDayValue = "31 days";
-                    break;
-                case "november":
-                    monthDayValue = "30 days";
-                    break;
-                case "december":
-                    monthDayValue = "31 days";
-                    break;
-                default:
-                    monthDayValue = "Invalid input or program error :l";
-                    break;
-            }
-            System.out.println(monthDayValue);
-
+    switch (monthName) {
+        case "january":
+            monthDayValue = "31 days";
+            break;
+        case "february":
+            monthDayValue = "28 or 29 days depending on leap year";
+            break;
+        case "march":
+            monthDayValue = "31 days";
+            break;
+        case "april":
+            monthDayValue = "30 days";
+            break;
+        case "may":
+            monthDayValue = "31 days";
+            break;
+        case "june":
+            monthDayValue = "30 days";
+            break;
+        case "july":
+            monthDayValue = "31 days";
+            break;
+        case "august":
+            monthDayValue = "31 days";
+            break;
+        case "september":
+            monthDayValue = "30 days";
+            break;
+        case "october":
+            monthDayValue = "31 days";
+            break;
+        case "november":
+            monthDayValue = "30 days";
+            break;
+        case "december":
+            monthDayValue = "31 days";
+            break;
+        default:
+            monthDayValue = "Invalid input or program error :l";
+            return;
+    }
+    System.out.println(monthDayValue);
+}
 
         } else if (choice == 3) {
             System.out.println(
@@ -242,7 +242,7 @@ public class ConditionalsIII {
             System.out.println("Please type an integer to represent a day of that month: \n");
             day = userInput.nextInt();
 
-            if (((monthValue > 11) && (day > 20)) || ((monthValue < 4) && (day < 20))) {
+            if (((monthValue > 11) && (day > 20)) || ((monthValue < 4) || ((monthValue == 4))&&(day < 20))) {
                 System.out.println("Winter");
             } else if ( ((monthValue < 4) && (day > 19)) || ((monthValue < 7) && (day < 21))  ) {
                 System.out.println("Spring");

@@ -31,6 +31,7 @@ public class CreateAMenu {
         } else {
             choice = 4;
         }
+
         //program will use choice in this switch statement to navigate between + - * functions
         switch (choice) {
             case 1:

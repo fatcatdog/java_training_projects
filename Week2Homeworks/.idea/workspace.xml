@@ -15,8 +15,8 @@
       <file leaf-file-name="ConditionalsIII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ConditionalsIII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
+            <state relative-caret-position="3705">
+              <caret line="252" column="13" selection-start-line="252" selection-start-column="13" selection-end-line="252" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -33,8 +33,8 @@
       <file leaf-file-name="ConditionalsII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ConditionalsII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="243">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -48,20 +48,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpaceWeight.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SpaceWeight.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SpaceWeight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="39" column="63" lean-forward="true" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
+            <state relative-caret-position="255">
+              <caret line="22" column="29" selection-start-line="22" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreateAMenu.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CreateAMenu.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CreateAMenu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="353">
+              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -91,13 +91,14 @@
         <option value="$PROJECT_DIR$/src/ConditionalsII.java" />
         <option value="$PROJECT_DIR$/src/SpaceWeight.java" />
         <option value="$PROJECT_DIR$/src/DayOfTheWeek.java" />
-        <option value="$PROJECT_DIR$/src/ConditionalsIII.java" />
         <option value="$PROJECT_DIR$/src/ScannerLaptopDemo.java" />
+        <option value="$PROJECT_DIR$/src/ConditionalsIII.java" />
+        <option value="$PROJECT_DIR$/src/CreateAMenu.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="414" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="281" />
     <option name="y" value="23" />
     <option name="width" value="1026" />
     <option name="height" value="852" />
@@ -107,7 +108,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,8 +132,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -148,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CreateAMenu">
+  <component name="RunManager" selected="Application.ConditionalsIII">
     <configuration name="ConditionalsI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionalsI" />
       <module name="Week2Homeworks" />
@@ -193,8 +194,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CreateAMenu" />
         <item itemvalue="Application.ConditionalsIII" />
+        <item itemvalue="Application.CreateAMenu" />
         <item itemvalue="Application.ConditionalsI" />
         <item itemvalue="Application.ConditionalsII" />
         <item itemvalue="Application.SpaceWeight" />
@@ -215,7 +216,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="414" y="23" width="1026" height="852" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
@@ -225,17 +226,17 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.5179949" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3470437" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22709551" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22708334" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.3985849" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.2110849" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -255,6 +256,195 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/DayOfTheWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpaceWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="29" selection-start-line="22" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateAMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalsIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalsI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpaceWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="29" selection-start-line="22" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateAMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayOfTheWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalsIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalsI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayOfTheWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateAMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpaceWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalsIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalsI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayOfTheWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateAMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpaceWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="31" column="19" selection-start-line="30" selection-start-column="8" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalsIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalsI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayOfTheWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateAMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpaceWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="63" lean-forward="true" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ConditionalsIII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -377,29 +567,8 @@
     <entry file="file://$PROJECT_DIR$/src/modulo.java" />
     <entry file="file://$PROJECT_DIR$/src/ConditionalsIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConditionalsI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConditionalsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CreateAMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="3705">
+          <caret line="252" column="13" selection-start-line="252" selection-start-column="13" selection-end-line="252" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -412,8 +581,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SpaceWeight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="39" column="63" lean-forward="true" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
+        <state relative-caret-position="255">
+          <caret line="22" column="29" selection-start-line="22" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalsI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConditionalsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateAMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
         </state>
       </provider>
     </entry>

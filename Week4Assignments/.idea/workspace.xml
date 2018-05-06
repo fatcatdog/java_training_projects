@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1090d82-62bb-492b-a6b9-22a979e37ca3" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StudentClassAssignment/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="121" column="40" lean-forward="true" selection-start-line="121" selection-start-column="40" selection-end-line="121" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StudentClassAssignment/Course.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>listOfStudents</find>
+      <find>courses</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/StringToInt.java" />
+        <option value="$PROJECT_DIR$/src/DIvision.java" />
+        <option value="$PROJECT_DIR$/src/Division.java" />
+        <option value="$PROJECT_DIR$/src/StudentTest.java" />
+        <option value="$PROJECT_DIR$/src/TestStudent.java" />
+        <option value="$PROJECT_DIR$/src/shapes/Circle.java" />
+        <option value="$PROJECT_DIR$/src/Circle.java" />
+        <option value="$PROJECT_DIR$/src/com/cognizant/geometry/Shapes.java" />
+        <option value="$PROJECT_DIR$/src/com/cognizant/geometry/Shape.java" />
+        <option value="$PROJECT_DIR$/src/com/cognizant/shapes/Area.java" />
+        <option value="$PROJECT_DIR$/src/com/cognizant/shapes/Circle.java" />
+        <option value="$PROJECT_DIR$/src/Student.java" />
+        <option value="$PROJECT_DIR$/src/StudentClassAssignment/Course.java" />
+        <option value="$PROJECT_DIR$/src/StudentClassAssignment/Student.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="23" />
+    <option name="width" value="947" />
+    <option name="height" value="852" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Week4Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Week4Assignments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Week4Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Week4Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Week4Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Week4Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Week4Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Week4Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cognizant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Week4Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Week4Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cognizant" type="462c0819:PsiDirectoryNode" />
+              <item name="shapes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Week4Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Week4Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="StudentClassAssignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Student (1)">
+    <configuration name="Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cognizant.shapes.Area" />
+      <module name="Week4Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cognizant.shapes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cognizant.shapes.Circle" />
+      <module name="Week4Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cognizant.shapes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cognizant.geometry.Shape" />
+      <module name="Week4Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cognizant.geometry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Student (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentClassAssignment.Student" />
+      <module name="Week4Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StudentClassAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestStudent" />
+      <module name="Week4Assignments" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestStudent" />
+      <item itemvalue="Application.Shape" />
+      <item itemvalue="Application.Area" />
+      <item itemvalue="Application.Circle" />
+      <item itemvalue="Application.Student (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Student (1)" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.Area" />
+        <item itemvalue="Application.Shape" />
+        <item itemvalue="Application.TestStudent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1090d82-62bb-492b-a6b9-22a979e37ca3" name="Default" comment="" />
+      <created>1525368680238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525368680238</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="23" width="947" height="852" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32904884" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4562982" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.344245" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+          <folding>
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1103#1104#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Division.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="67" lean-forward="true" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week4Assignments.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringToInt.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cognizant/geometry/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="122" column="19" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1103#1104#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cognizant/shapes/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cognizant/shapes/Area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudentClassAssignment/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudentClassAssignment/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="121" column="40" lean-forward="true" selection-start-line="121" selection-start-column="40" selection-end-line="121" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
