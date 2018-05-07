@@ -10,6 +10,7 @@ class BubbleSort {
     void bubbleSort(int arr[]) {
         //knowing where the end of the array is with this assinged variable
         int n = arr.length;
+        int counter = 0;
 
         //for each data in this array up until last spot in array we will iterate
         for (int i = 0; i < n - 1; i++) {
@@ -19,6 +20,8 @@ class BubbleSort {
                 if (arr[j] > arr[j + 1]) {
                     //saving arrj
                     int temp = arr[j];
+                    counter++;
+                    System.out.println(counter);
                     //switching values if its > then
                     arr[j] = arr[j + 1];
                     //not forgatting
@@ -58,13 +61,12 @@ class BubbleSort {
     public static void main(String args[]) {
         //new object of class
         BubbleSort ob = new BubbleSort();
-//        declaring array to test
+//declaring array to test
         int arr[] = {64, 34, 25, 12, 22, 11, 90};
-        //running bubblesort
+        //running bubble sort
         ob.bubbleSort(arr);
         System.out.println("Sorted array");
         ob.printArray(arr);
-
 //running reverse bubblesort
         ob.reversebubbleSort(arr);
         System.out.println("Reversed sorted array");
