@@ -1,3 +1,7 @@
+/*
+@author Jacob Duchen
+*/
+
 package StudentClassAssignment;
 
 public class Course {

@@ -1,3 +1,7 @@
+/*
+@author Jacob Duchen
+*/
+
 import java.util.ArrayList;
 import java.util.Collections;
 

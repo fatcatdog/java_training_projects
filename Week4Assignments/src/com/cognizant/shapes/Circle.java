@@ -1,3 +1,7 @@
+/*
+@author Jacob Duchen
+*/
+
 package com.cognizant.shapes;
 
 import java.util.Scanner;

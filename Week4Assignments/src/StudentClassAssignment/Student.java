@@ -1,3 +1,7 @@
+/*
+@author Jacob Duchen
+*/
+
 package StudentClassAssignment;
 import java.util.Scanner;
 

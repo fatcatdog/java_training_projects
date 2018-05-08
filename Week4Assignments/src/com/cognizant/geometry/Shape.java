@@ -1,3 +1,7 @@
+/*
+@author Jacob Duchen
+*/
+
 package com.cognizant.geometry;
 
 import com.cognizant.shapes.*;
