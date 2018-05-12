@@ -19,9 +19,4 @@ public Course(String courseCode, String className, String professor){
     this.professor = professor;
 }
 
-
-
-public static void main() {
-
-}
 }
